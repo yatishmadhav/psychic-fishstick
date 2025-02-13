@@ -27,3 +27,5 @@ Text that is not a quote
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode
+
+this is just normal text
